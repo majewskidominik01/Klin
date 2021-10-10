@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: #CCBA96;
 }
 
 .title-div {
@@ -14,13 +15,7 @@
 }
 
 .aside-div {
-    background-color: #CCBA96;  
     min-height: 500px;
-}
-
-footer {
-    min-height: 60px;
-    background-color: #AAAA84;
 }
 
 
@@ -56,6 +51,7 @@ button {
     padding: 5px 15px;
     border-radius: 15%;
     background-color: transparent;
+    cursor: pointer;
 }
 
 .answer {
